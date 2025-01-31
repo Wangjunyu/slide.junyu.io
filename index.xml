@@ -20,7 +20,31 @@
 &lt;section data-noprocess data-shortcode-slide
  data-background-image="images/chart2.png">
  
-&lt;h2 id="data-analysis">Data Analysis&lt;/h2></description></item><item><title>Quick Demo</title><link>https://slide.junyu.io/quick-demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slide.junyu.io/quick-demo/</guid><description>&lt;h1 id="quick-demo">Quick Demo&lt;/h1>
+&lt;h2 id="data-analysis">Data Analysis&lt;/h2></description></item><item><title>Quick Demo</title><link>https://slide.junyu.io/quick-demo-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slide.junyu.io/quick-demo-2/</guid><description>&lt;h1 id="quick-demo">Quick Demo&lt;/h1>
+&lt;h2 id="by-leon">By Leon&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ data-background-color="#43464B">
+ 
+&lt;h1 id="first-topic">First Topic&lt;/h1>
+&lt;ul>
+&lt;li>Point 1&lt;/li>
+&lt;li>Point 2&lt;/li>
+&lt;/ul>
+
+
+
+&lt;aside class="notes">&lt;p>演讲注释&lt;/p>
+&lt;/aside>
+&lt;hr>
+&lt;h1 id="code-example">Code Example&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="thank-you">Thank You!&lt;/h1>
+&lt;h2 id="questions">Questions?&lt;/h2></description></item><item><title>Quick Demo</title><link>https://slide.junyu.io/quick-demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slide.junyu.io/quick-demo/</guid><description>&lt;h1 id="quick-demo">Quick Demo&lt;/h1>
 &lt;h2 id="by-leon">By Leon&lt;/h2>
 &lt;hr>
 
