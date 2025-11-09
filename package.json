@@ -1,0 +1,27 @@
+{
+  "name": "slide.junyu.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "reveal-md . --host 0.0.0.0 --port 1948",
+    "preview:watch": "reveal-md . --host 0.0.0.0 --port 1948 --watch",
+    "preview:single": "reveal-md",
+    "build": "reveal-md . --static _site",
+    "build:single": "reveal-md --static _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangjunyu/slide.junyu.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wangjunyu/slide.junyu.io/issues"
+  },
+  "homepage": "https://github.com/Wangjunyu/slide.junyu.io#readme",
+  "devDependencies": {
+    "reveal-md": "^6.1.4"
+  }
+}
